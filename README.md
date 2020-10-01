@@ -2,7 +2,6 @@
 2
  this tool for hacker account facebook 
  
-4
  # use the tool 
 5
  * apt update && apt upgrade
@@ -24,9 +23,7 @@
  * python2 ReKuShE.py
 14
  * pass and user name in channel youtube
-15
   her https://Youtube.com/iraqhacker
-16
  
 17
  # My Youtube
